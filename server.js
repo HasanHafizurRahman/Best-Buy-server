@@ -14,7 +14,7 @@ if (process.env.NODE_ENV !== "PRODUCTION") {
   });
 }
 
-// connect database
+// connect db
 connectDatabase();
 
 // create server
